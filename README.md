@@ -1,4 +1,9 @@
-### Hi there 👋
+<img src="https://wallpapercave.com/wp/CF486O8.jpg" width="100%" height="300px">
+
+# Hello World! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50px" height="50px"> I'm Carolina!
+### A front end developer from Brazil
+
+### Don't panic! I have some skills
 
 <!--
 **carolinsanna/carolinsanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
