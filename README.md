@@ -5,6 +5,8 @@
 
 ### Don't panic! I have some skills
 
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="50px" height="50px"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="50px" height="50px">  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50px" height="50px">  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="50px" height="50px">  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" width="50px" height="50px">  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png" width="50px" height="50px">  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="50px" height="50px"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="50px" height="50px">  <img src="https://cdn.icon-icons.com/icons2/3110/PNG/512/eclipse_icon_191751.png" width="50px" height="50px">
+
 <!--
 **carolinsanna/carolinsanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
