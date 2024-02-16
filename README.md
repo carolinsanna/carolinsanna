@@ -1,18 +1,22 @@
-<img src="https://wallpapercave.com/wp/CF486O8.jpg" width="100%" height="300px">
+<img alt="carolinsana" title="#carolinsana" src="assets/banner.jpg" width="100%"/>
 
-# Hello World! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50px" height="50px"> I'm Carolina!
-### A developer from Brazil...
+# Olá mundo! Eu sou a Carol
 
-who can turns coffee into <code>code</code> likes games, books and astronomy. And passionate about tech and computing. <br>
+## Uma desenvolvedora brasileira 💻
 
-I'm working as a front end developer on [One](https://www.one.com.br), a growth agency from [Publics Groupe](https://www.publicisgroupe.com/fr/splash). I'm currently located in the client's hub [Bradesco](https://banco.bradesco/html/classic/index.shtm).<br>
-I'm improving my web development skills with [Bruno Bertolini](https://github.com/brunobertolini).<br>
-I usually develop games too!
+### Sobre mim ✨
 
-I can talk about life, the universe and everything but
-### [Don't panic!](https://carolinsanna.github.io/dontpanic/) I have some tech skills
+Trabalho como <b>desenvolvedora Front-end</b> na Leo Burnett, e faço parte do time One.Bra que atende exclusivamente o Bradesco. Sou responsável por várias entregas no HUB do cliente, desde e-mail marketing até Landing Pages. 
+Além disso, costumo desenvovler projetos pessoais que me possibiltam aprimorar certas habilidades.
+Sou uma pessoa motivada a resolver problemas, o que me impulsiona a aprender coisas novas. Não costumo me limitar a determinadas ferramentas, o que me permite construir um largo conhecimento em computação e tecnologia. 
+Também me interesso por desenvolvimento de games, astrofísica e livros. Gosto de tocar baixo nas horas livres.
 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="50px" height="50px"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="50px" height="50px">  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50px" height="50px">   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="50px" height="50px"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" width="50px" height="50px">  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png" width="50px" height="50px">  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="50px" height="50px"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="50px" height="50px">  <img src="https://cdn.icon-icons.com/icons2/3110/PNG/512/eclipse_icon_191751.png" width="50px" height="50px">
+### Principais techs 🔧
+
+<a href="https://pt-br.legacy.reactjs.org" target=_blank><img alt="React" title="React" src="assets/react.svg" width="40" valign="middle"></a>&nbsp;
+<a href="https://vitejs.dev/guide/" target=_blank><img alt="Vite" title="Vite" src="assets/vite.svg" width="40" valign="middle"></a>&nbsp;
+<a href="https://tailwindcss.com/docs/installation" target=_blank><img alt="Tailwind" title="Tailwind" src="assets/tailwindcss.svg" width="40" valign="middle"></a>&nbsp;
+<a href="https://nodejs.org/en/download/" target=_blank><img alt="Node.js" title="Node.js" src="assets/node.svg" width="40" valign="middle"></a>
 
 <!--
 **carolinsanna/carolinsanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
