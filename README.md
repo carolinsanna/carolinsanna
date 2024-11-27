@@ -26,11 +26,6 @@ I am also interested in game development, astrophysics, and reading. In my free 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=carolinsanna&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 <!--
 **carolinsanna/carolinsanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
